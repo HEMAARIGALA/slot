@@ -27,7 +27,7 @@ Execute the program using runserver command.
 ```
 <html>
     <body>
-        <img src="logo.png">
+        <img src="/static/logo.png">
         <table border="2" cellspacing="10" cellpadding="10">
 <caption>Camu Schedule Hema 24011259</caption>
             <tr bgcolor="cyan">
